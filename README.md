@@ -1,5 +1,7 @@
 # Inventory-management-system
 Developed a desktop-based app, Inventory Management System, to manage an organization's stock efficiently. 
 
-It handles sales, purchases, stock updates, and generates sales reports. Crucial for quality control and tracking large shipments, minimizing errors.
+It handles sales, purchases, stock updates, and generates sales reports. 
+
+Crucial for quality control and tracking large shipments, minimizing errors.
 
